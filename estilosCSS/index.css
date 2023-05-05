@@ -14,3 +14,18 @@ body{
     justify-content: space-evenly;
     width: 50%;
 }
+
+.contenidoProyectos{
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+.contenidoProyectos section{
+    width: 100%;
+    align-content: space-between;
+}
+
+.contenidoProyectos-lista{
+    width: 100%;
+}
+
