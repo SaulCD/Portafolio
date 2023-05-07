@@ -28,4 +28,10 @@ body{
 .contenidoProyectos-lista{
     width: 100%;
 }
+.contenidoProyectos-lista_proyecto{
+    width: 30%;
+    height: 300px;
+    background-color: #e7deb2;
+    border: solid;
+}
 
